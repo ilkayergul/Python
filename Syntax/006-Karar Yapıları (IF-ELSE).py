@@ -11,9 +11,9 @@ else:
   print("a eşittir b")
   
 # Eşit ve eşit değil kullanımı.
-if a!=b
+if a!=b:
   print("a, b'ye eşit değildir.")
-elif a==b
+elif a==b:
   print("a, b'ye eşittir.")
 
     
