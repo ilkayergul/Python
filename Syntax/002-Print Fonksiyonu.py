@@ -5,7 +5,7 @@ print('İlkay Ergül')
 print('İlkay','Ergül') #İlkay Ergül
 
 #Artı işareti birleştirme yapar.
-print('İlkay','Ergül') #İlkayErgül
+print('İlkay'+'Ergül') #İlkayErgül
 
 #String ve int ifadeler virgül ile ayrılarak yazılabilir.
 print('Yaşım:',24) #Yaşım: 24
