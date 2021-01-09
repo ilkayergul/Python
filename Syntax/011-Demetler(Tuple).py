@@ -1,4 +1,4 @@
-# Demet(Tupple) içerisindeki elemanları değiştiremeyiz.
+# Demet(Tuple) içerisindeki elemanları değiştiremeyiz.
 
 demet = (1,2,3,"Merhaba","Dünya)
 print(demet)
