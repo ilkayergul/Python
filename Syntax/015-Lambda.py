@@ -1,10 +1,10 @@
-# Lambda bir fonksiyondur. Parametreler alabilir. Fonksiyondan dönen değer bir tanedir.
+# Lambda bir fonksiyondur. Parametreler alabilir. Tek değer döndürür.
 # Fonksiyonların içerisinde kullanılabilir.
 # Tanımlanırken başına def yazılmaz.
 
 # : olan kısıma kadar yazılan değerler parametredir.
 get_kdv_rate = lambda x : x * 0.18
-print(z(100)) #18.0
+print(get_kdv_rate(100)) #18.0
 
 # Öncelikle normal fonksiyone parametre verilir. Sonrasında lambda fonksiyonuna parametre verilir.
 # Yapılan işlem: x değeri x+1 ile çarpılır. ilk_islem e verilen parametre ise toplanır.
