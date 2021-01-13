@@ -15,5 +15,3 @@ dq.appendleft(3)
 
 # Listeyi temizleme
 dq.clear()
-
-#
